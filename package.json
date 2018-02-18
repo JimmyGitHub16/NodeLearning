@@ -1,0 +1,11 @@
+{
+  "name": "nodelsp",
+  "version": "1.0.0",
+  "description": "start to learning node",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT"
+}
