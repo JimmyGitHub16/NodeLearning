@@ -8,13 +8,13 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/multiproc/master.js"
+            "program": "${workspaceFolder}/mongodb/mongodbtest.js"
         },
         {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8081",
+            "url": "http://localhost:27017",
             "webRoot": "${workspaceFolder}"
         }
     ]
