@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/expressDev/expdev5.js"
+            "program": "${workspaceFolder}/multiproc/master.js"
         },
         {
             "type": "chrome",
